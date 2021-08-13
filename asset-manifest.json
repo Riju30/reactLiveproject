@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/reactLiveproject/static/css/main.ed79f355.chunk.css",
+    "main.js": "/reactLiveproject/static/js/main.5d6050a5.chunk.js",
+    "main.js.map": "/reactLiveproject/static/js/main.5d6050a5.chunk.js.map",
+    "runtime-main.js": "/reactLiveproject/static/js/runtime-main.d924f6d2.js",
+    "runtime-main.js.map": "/reactLiveproject/static/js/runtime-main.d924f6d2.js.map",
+    "static/css/2.6293a573.chunk.css": "/reactLiveproject/static/css/2.6293a573.chunk.css",
+    "static/js/2.413c66c7.chunk.js": "/reactLiveproject/static/js/2.413c66c7.chunk.js",
+    "static/js/2.413c66c7.chunk.js.map": "/reactLiveproject/static/js/2.413c66c7.chunk.js.map",
+    "index.html": "/reactLiveproject/index.html",
+    "static/css/2.6293a573.chunk.css.map": "/reactLiveproject/static/css/2.6293a573.chunk.css.map",
+    "static/css/main.ed79f355.chunk.css.map": "/reactLiveproject/static/css/main.ed79f355.chunk.css.map",
+    "static/js/2.413c66c7.chunk.js.LICENSE.txt": "/reactLiveproject/static/js/2.413c66c7.chunk.js.LICENSE.txt",
+    "static/media/abut.ce9a058c.png": "/reactLiveproject/static/media/abut.ce9a058c.png",
+    "static/media/android.98ec25f4.jpg": "/reactLiveproject/static/media/android.98ec25f4.jpg",
+    "static/media/app.a541c77a.png": "/reactLiveproject/static/media/app.a541c77a.png",
+    "static/media/dm.3337b2bd.jpeg": "/reactLiveproject/static/media/dm.3337b2bd.jpeg",
+    "static/media/ios.00b6b112.jpg": "/reactLiveproject/static/media/ios.00b6b112.jpg",
+    "static/media/software.9fc76bb5.png": "/reactLiveproject/static/media/software.9fc76bb5.png",
+    "static/media/web.0e67fb1a.png": "/reactLiveproject/static/media/web.0e67fb1a.png",
+    "static/media/weba.67a13862.jpg": "/reactLiveproject/static/media/weba.67a13862.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d924f6d2.js",
+    "static/css/2.6293a573.chunk.css",
+    "static/js/2.413c66c7.chunk.js",
+    "static/css/main.ed79f355.chunk.css",
+    "static/js/main.5d6050a5.chunk.js"
+  ]
+}
