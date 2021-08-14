@@ -31,7 +31,7 @@ const Sdata =[
     },
     {
         imgsrc : ios ,
-        title : "IoS Development",
+        title : "iOS Development",
     },
     
 ];
