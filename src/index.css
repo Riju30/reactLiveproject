@@ -51,6 +51,15 @@
         font-weight: bold;
         border-bottom: none;
     }
+    #header h1{
+        font-size: 30px !important;
+    }
+    #header h2{
+        font-size: 18px !important;
+    }
+    .card_s{
+        height: 10rem !important;
+    }
 }
 
 /*==============================================================
@@ -103,6 +112,10 @@
 
 #header .animated{
     animation: up-down 2s ease-in-out infinite alternate-reverse both ;
+}
+
+.card_s{
+    height: 12rem;
 }
 
 @-webkit-keyframes up-down{
