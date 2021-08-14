@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/reactLiveproject/static/css/main.ed79f355.chunk.css",
-    "main.js": "/reactLiveproject/static/js/main.5d6050a5.chunk.js",
-    "main.js.map": "/reactLiveproject/static/js/main.5d6050a5.chunk.js.map",
+    "main.css": "/reactLiveproject/static/css/main.c0eb2914.chunk.css",
+    "main.js": "/reactLiveproject/static/js/main.2a72cb19.chunk.js",
+    "main.js.map": "/reactLiveproject/static/js/main.2a72cb19.chunk.js.map",
     "runtime-main.js": "/reactLiveproject/static/js/runtime-main.d924f6d2.js",
     "runtime-main.js.map": "/reactLiveproject/static/js/runtime-main.d924f6d2.js.map",
     "static/css/2.6293a573.chunk.css": "/reactLiveproject/static/css/2.6293a573.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.413c66c7.chunk.js.map": "/reactLiveproject/static/js/2.413c66c7.chunk.js.map",
     "index.html": "/reactLiveproject/index.html",
     "static/css/2.6293a573.chunk.css.map": "/reactLiveproject/static/css/2.6293a573.chunk.css.map",
-    "static/css/main.ed79f355.chunk.css.map": "/reactLiveproject/static/css/main.ed79f355.chunk.css.map",
+    "static/css/main.c0eb2914.chunk.css.map": "/reactLiveproject/static/css/main.c0eb2914.chunk.css.map",
     "static/js/2.413c66c7.chunk.js.LICENSE.txt": "/reactLiveproject/static/js/2.413c66c7.chunk.js.LICENSE.txt",
     "static/media/abut.ce9a058c.png": "/reactLiveproject/static/media/abut.ce9a058c.png",
     "static/media/android.98ec25f4.jpg": "/reactLiveproject/static/media/android.98ec25f4.jpg",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.d924f6d2.js",
     "static/css/2.6293a573.chunk.css",
     "static/js/2.413c66c7.chunk.js",
-    "static/css/main.ed79f355.chunk.css",
-    "static/js/main.5d6050a5.chunk.js"
+    "static/css/main.c0eb2914.chunk.css",
+    "static/js/main.2a72cb19.chunk.js"
   ]
 }
